@@ -1,0 +1,5 @@
+business_context,scenario,dollar_price,advertisment,promotions
+High price; high marketing,Scenario 1,10,50,61
+Medium price; medium marketing,Scenario 2,8,45,55
+Low price; low marketing,Scenario 3,6,40,50
+High price; low marketing,Scenario 4,10,40,50
