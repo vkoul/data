@@ -1,4 +1,4 @@
-business_context,scenario,dollar_price,advertisment,promotions
+business_context,scenario,price,adv,promo
 High price; high marketing,Full Throttle,10,50,61
 Medium price; medium marketing,Conservative,8,45,55
 Low price; low marketing,Risk Averse,6,40,50
